@@ -1,0 +1,9 @@
+C:\Users\Lua\Desktop\kinect\kinect-1\Microsoft.Kinect.Toolkit.FaceTracking\bin\x86\Release\FaceTrackData.dll
+C:\Users\Lua\Desktop\kinect\kinect-1\Microsoft.Kinect.Toolkit.FaceTracking\bin\x86\Release\FaceTrackLib.dll
+C:\Users\Lua\Desktop\kinect\kinect-1\Microsoft.Kinect.Toolkit.FaceTracking\bin\x86\Release\Microsoft.Kinect.Toolkit.FaceTracking.dll
+C:\Users\Lua\Desktop\kinect\kinect-1\Microsoft.Kinect.Toolkit.FaceTracking\bin\x86\Release\Microsoft.Kinect.Toolkit.FaceTracking.pdb
+C:\Users\Lua\Desktop\kinect\kinect-1\Microsoft.Kinect.Toolkit.FaceTracking\bin\x86\Release\Microsoft.Kinect.dll
+C:\Users\Lua\Desktop\kinect\kinect-1\Microsoft.Kinect.Toolkit.FaceTracking\bin\x86\Release\Microsoft.Kinect.xml
+C:\Users\Lua\Desktop\kinect\kinect-1\Microsoft.Kinect.Toolkit.FaceTracking\obj\Win32\Release\Microsoft.Kinect.Toolkit.FaceTracking.csproj.CoreCompileInputs.cache
+C:\Users\Lua\Desktop\kinect\kinect-1\Microsoft.Kinect.Toolkit.FaceTracking\obj\Win32\Release\Microsoft.Kinect.Toolkit.FaceTracking.dll
+C:\Users\Lua\Desktop\kinect\kinect-1\Microsoft.Kinect.Toolkit.FaceTracking\obj\Win32\Release\Microsoft.Kinect.Toolkit.FaceTracking.pdb
